@@ -20,3 +20,6 @@ High sales concentration in certain regions, such as North America and Europe. S
 
 Conclusion:
 This analysis of Amazon sales data reveals important patterns that can help publishers and marketers make informed decisions. The Tableau dashboard serves as a powerful tool to visualize these insights and make them accessible to stakeholders. Future work could include predictive modeling to forecast sales trends or deeper analysis of the impact of promotions on sales performance.
+
+
+![image](https://github.com/user-attachments/assets/0cd260d4-deed-4e43-b57d-e77daf919ab5)
